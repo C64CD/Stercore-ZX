@@ -1,0 +1,1 @@
+pasmo --tapbas stercore.asm stercore.tap
